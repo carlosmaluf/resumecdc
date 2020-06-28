@@ -1,5 +1,5 @@
 <div class="container">
      <div class="starter-template">
-            <h1>Resume CDC</h1>
+            <h1>Tela Inicial</h1>
     </div>
 </div>
